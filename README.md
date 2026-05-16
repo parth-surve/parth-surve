@@ -39,7 +39,7 @@
 - Deployed using Streamlit  
 
 🔗 Live App:  
-https://share.google/iNdx42nkpai16YAvs  
+[https://share.google/iNdx42nkpai16YAvs](https://valuenest-ai.streamlit.app/)  
 
 ---
 
