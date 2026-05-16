@@ -1,85 +1,70 @@
-<h1 align="center">Hi 👋, I'm Parth Surve</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Backend Developer</h3>
+# Parth Surve
+
+**Computer Engineering Student · Mumbai**  
+Building skills in AI/ML and backend development through real projects.
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer Engineering Student (Mumbai)
-- 🤖 Focused on AI/ML + Backend Development
-- ⚡ Building real-world projects using FastAPI & ML
-- 📈 Currently improving DSA & problem-solving skills  
+## About
+
+I'm a CE student focused on understanding ML from the ground up — not just using libraries, but knowing what's happening underneath. Currently learning to connect ML models to real backend systems using FastAPI.
+
+- Working on: end-to-end ML projects with proper deployment
+- Improving: DSA fundamentals + backend architecture
+- Goal: internship-ready by late 2025
 
 ---
 
-## 🛠️ Tech Stack
-**Languages**
-- Python  
+## Tech Stack
 
-**Libraries & Frameworks**
-- FastAPI, NumPy, Pandas, Scikit-learn  
-- Matplotlib, Seaborn  
+**Comfortable with**
+- Python, Pandas, NumPy
+- Scikit-learn, XGBoost
+- Jupyter Notebooks, Git
 
-**Tools**
-- Git & GitHub  
-- VS Code  
-
----
-
-## 🚀 Projects
-
-### 🔹 Customer Intelligence System
-- Built a system to analyze customer behavior and insights  
-- Used Python, Pandas, and ML concepts  
+**Learning actively**
+- FastAPI, PostgreSQL
+- Model deployment (Streamlit, Render)
 
 ---
 
-### 🔹 House Price Prediction (Deployed)
-- ML model to predict house prices  
-- Built using Scikit-learn  
-- Deployed using Streamlit  
+## Projects
 
-🔗 Live App:  
-[https://share.google/iNdx42nkpai16YAvs](https://valuenest-ai.streamlit.app/)  
+### Customer Intelligence System
+Predicts whether a customer will purchase again using RFM segmentation and XGBoost.  
+Built the ML pipeline, EDA, and FastAPI backend. Collaborated on frontend.
 
----
-
-## 📊 DSA & LeetCode
-- 🧠 Solved 30+ problems  
-- 📈 Practicing DSA (will resume consistency 🚀)
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Parth-Surve?theme=dark&font=baloo&ext=heatmap" width="90%" />
-</p>
+`Python` `XGBoost` `FastAPI` `Scikit-learn` `Pandas`  
+[View repo](https://github.com/parth-surve/customer-intelligence-system)
 
 ---
 
-## 📈 GitHub Activity & Stats
+### ValueNest AI — House Price Predictor
+Predicts house prices based on property features. Trained an ML model on real estate data and deployed as an interactive web app.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth-surve&show_icons=true&theme=tokyonight" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=parth-surve&theme=tokyonight" width="90%" />
-</p>
+`Python` `Scikit-learn` `Streamlit` `Pandas`  
+[Live Demo](https://valuenest-ai.streamlit.app/) · [View repo](https://github.com/parth-surve)
 
 ---
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/parth-surve-35b943314  
-- 💻 GitHub: https://github.com/parth-surve  
-- 🧠 LeetCode: https://leetcode.com/u/Parth-Surve/  
+### AQI Prediction
+Predicts Air Quality Index from environmental features. Implemented linear regression from scratch using the Normal Equation, then compared with sklearn's implementation.  
+Focus was on understanding the math, not just the result.
+
+`Python` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`  
+[View repo](https://github.com/parth-surve/aqi-prediction-ml)
 
 ---
 
-## ⚡ Current Focus
-- Strengthening DSA fundamentals  
-- Building AI/ML projects with real-world datasets  
-- Learning backend systems using FastAPI  
+## Currently Working On
+
+- Strengthening DSA (arrays, strings, hashmaps, trees)
+- Building a full FastAPI + PostgreSQL backend project solo
+- Improving commit habits and project documentation
 
 ---
 
-<p align="center">
-  ⭐ Consistency + Real Projects = Growth 🚀
-</p>
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/parth-surve-35b943314) · [LeetCode](https://leetcode.com/u/Parth-Surve/) · [GitHub](https://github.com/parth-surve)
 
