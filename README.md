@@ -43,7 +43,7 @@ Built the ML pipeline, EDA, and FastAPI backend. Collaborated on frontend.
 Predicts house prices based on property features. Trained an ML model on real estate data and deployed as an interactive web app.
 
 `Python` `Scikit-learn` `Streamlit` `Pandas`  
-[Live Demo](https://valuenest-ai.streamlit.app/) · [View repo]([https://github.com/parth-surve](https://github.com/parth-surve/ValueNest-AI))
+[Live Demo](https://valuenest-ai.streamlit.app/) · [View repo](https://github.com/parth-surve/ValueNest-AI)
 
 ---
 
